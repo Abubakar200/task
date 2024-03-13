@@ -82,7 +82,7 @@ export default function Register() {
       </div>
       <div className="flex-1 flex items-center justify-center p-8 bg-gradient-to-r from-blue-600 to-blue-800">
         <div className="text-white max-w-xs text-center">
-          <img src="src/assets/task_logo.png" />
+          <img src="public/task_logo.png" />
         </div>
       </div>
     </div>
