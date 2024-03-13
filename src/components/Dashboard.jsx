@@ -15,7 +15,7 @@ export default function Dashboard() {
             alt="Logo"
             className="mb-3"
             height="40"
-            src="public/2.png"
+            src="/2.png"
             style={{
               aspectRatio: "120/40",
               objectFit: "cover",
