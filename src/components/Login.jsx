@@ -65,7 +65,7 @@ export default function Login() {
       </div>
       <div className="flex-1 flex items-center justify-center p-8 bg-gradient-to-r from-blue-600 to-blue-800">
         <div className="text-white max-w-xs text-center">
-          <img src="/task_logo.png" />
+          <img src="/task_logo.png" alt="Logo" />
         </div>
       </div>
     </div>
